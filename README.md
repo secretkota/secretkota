@@ -4,7 +4,7 @@
 
 I build software, explore new technologies, and turn ideas into working projects.
 
-[GitHub](https://github.com/YOUR_USERNAME) · [Projects](https://github.com/YOUR_USERNAME?tab=repositories) · [Contact](YOUR_CONTACT_LINK)
+[GitHub](https://github.com/secretkota) · [Projects](https://github.com/secretkota?tab=repositories) · [Contact](YOUR_CONTACT_LINK)
 
 ---
 
@@ -71,12 +71,12 @@ interests:
 ### GitHub Activity
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_title=true&hide_border=true&theme=default" alt="Most used languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=secretkota&show_icons=true&hide_title=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub statistics" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretkotaE&layout=compact&hide_title=true&hide_border=true&theme=default" alt="Most used languages" />
 </p>
 
 <p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=24292f&line=6e7781&point=24292f&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=secretkota&bg_color=ffffff&color=24292f&line=6e7781&point=24292f&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -84,9 +84,9 @@ interests:
 ### Recent Contributions
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">Explore repositories ↗</a>
+  <a href="https://github.com/secretkota?tab=repositories">Explore repositories ↗</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/YOUR_USERNAME/commits">View commits ↗</a>
+  <a href="https://github.com/secretkota/commits">View commits ↗</a>
 </p>
 
 ---
