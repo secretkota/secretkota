@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Stanislav&fontSize=75&color=0:050816,50:102a43,100:00e5ff&stroke=00e5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=Junior%20Frontend%20Developer%20%2F%2F%20Junior%20QA&descAlignY=72&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Stanislav&fontSize=75&color=0:050816,50:102a43,100:00e5ff&stroke=00e5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%2F%2F%20QA&descAlignY=72&descSize=17" />
 
 <div align="center">
   ---
@@ -54,12 +54,7 @@ currently_learning: Backend developement and Automation QA
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=secretkota&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretkota&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=secretkota&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
