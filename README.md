@@ -1,109 +1,121 @@
-# Hey, I'm [Your Name] 👋
+<!--
+  ██████╗ ███████╗██╗   ██╗
+  PROFILE README // CYBERCORE
+-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="GitHub banner" />
-</p>
+<div align="center">
 
-<h3 align="center">
-  💻 Developer | 🚀 Lifelong Learner | 🛠️ Problem Solver
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=YOUR_NAME&fontSize=75&color=0:050816,50:102a43,100:00e5ff&stroke=00e5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=72&descSize=17" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+projects+and+learning+every+day;Turning+ideas+into+code;Welcome+to+my+profile!" alt="Typing SVG" />
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%3E+INITIALIZING+DEVELOPER+ENVIRONMENT...;%3E+IDEAS+INTO+SYSTEMS.;%3E+NO+LIMITS.+JUST+LOGIC.;%3E+WELCOME+TO+MY+WORKSPACE." />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/MODE-ENGINEERING-7c3aed?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/BUGS-UNDER_INVESTIGATION-ff3864?style=for-the-badge&labelColor=050816" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` // IDENTITY
 
-```yaml
-name: "[Your Name]"
-location: "Moldova"
-role: "Developer"
-currently_learning: "[Your current focus]"
-interests:
-  - Software Development
-  - Open Source
-  - Technology
-currently_working_on: "[Your project]"
+```text
+╔══════════════════════════════════════════╗
+║          DEVELOPER CONFIGURATION         ║
+╠══════════════════════════════════════════╣
+║  USER       : YOUR_NAME                  ║
+║  LOCATION   : MOLDOVA                    ║
+║  CLASS      : SOFTWARE DEVELOPER         ║
+║  OBJECTIVE  : BUILD SOMETHING GREAT      ║
+║  STATUS     : ALWAYS LEARNING             ║
+╚══════════════════════════════════════════╝
 ```
 
-- 🔭 Working on personal and university projects.
-- 🌱 Constantly learning and improving my skills.
-- 💡 Interested in building useful and interesting applications.
-- 🎯 Goal: become a better developer with every project.
+> I don't just write code. I build things that solve problems.
+
+- `// 01` — Developing projects and exploring new technologies.
+- `// 02` — Turning complex ideas into working solutions.
+- `// 03` — Learning by building, testing, and improving.
+- `// 04` — Focused on clean architecture and continuous growth.
 
 ---
 
-## 🧰 Tech Stack
+## `02` // TECHNOLOGY MATRIX
 
-<!-- Add your technologies below -->
+<div align="center">
 
-<p align="left">
-  <!-- Example: <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech stack" /> -->
-</p>
+### `[ CORE SYSTEMS ]`
 
-**Languages:** `Add your languages`
+<!-- ADD YOUR TECHNOLOGIES HERE -->
 
-**Frameworks & Libraries:** `Add your frameworks`
+<img src="https://skillicons.dev/icons?i=YOUR_STACK_HERE&theme=dark&perline=8" />
 
-**Tools:** `Add your tools`
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/LANGUAGES-TO_BE_CONFIGURED-00e5ff?style=flat-square&labelColor=101522" />
+<img src="https://img.shields.io/badge/FRAMEWORKS-TO_BE_CONFIGURED-7c3aed?style=flat-square&labelColor=101522" />
+<img src="https://img.shields.io/badge/TOOLS-TO_BE_CONFIGURED-00e5ff?style=flat-square&labelColor=101522" />
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `03` // GITHUB TELEMETRY
 
-<!-- Replace these placeholders with your real projects -->
+<div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚧 Project One</h3>
-      <p align="center">Short description of your project.</p>
-      <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">View repository →</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Project Two</h3>
-      <p align="center">Short description of your project.</p>
-      <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">View repository →</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9&icon_color=7c3aed&ring_color=00e5ff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=050816&ring=00e5ff&fire=ff3864&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=72849a&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## `04` // DEPLOYED PROJECTS
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Add your other social links here -->
-</p>
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9&icon_color=7c3aed" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&hide_border=true&bg_color=050816&title_color=00e5ff&text_color=c9d1d9&icon_color=7c3aed" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer banner" />
-</p>
+## `05` // CONTRIBUTION ACTIVITY
 
-<p align="center">
-  <i>「Code. Learn. Build. Repeat.」</i>
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050816&color=00e5ff&line=7c3aed&point=ffffff&area=true&area_color=102a43&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00e5ff&section=footer" width="100%" />
+
+### `SYSTEM MESSAGE: KEEP BUILDING.`
+
+<img src="https://img.shields.io/badge/MADE_WITH-COFFEE_%26_CODE-050816?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=050816" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00e5ff,50:102a43,100:050816" width="100%" />
+
+</div>
