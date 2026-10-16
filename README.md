@@ -72,7 +72,7 @@ interests:
 
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=secretkota&show_icons=true&hide_title=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretkotaE&layout=compact&hide_title=true&hide_border=true&theme=default" alt="Most used languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretkota&layout=compact&hide_title=true&hide_border=true&theme=default" alt="Most used languages" />
 </p>
 
 <p>
