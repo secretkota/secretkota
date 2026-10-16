@@ -40,12 +40,12 @@ currently_learning: Backend developement and Automation QA
 
 **Frameworks & Libraries:** 
 <br>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,sqlite&theme=dark" alt="Tech stack" />
 
 
 **Tools:** 
 <br>
-  <img src="https://skillicons.dev/icons?i=npm,photoshop,git,figma,jira&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=npm,photoshop,git,figma&theme=dark" alt="Tech stack" />
 
 ---
 
