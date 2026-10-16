@@ -6,24 +6,14 @@
   💻 Developer | 🚀 Lifelong Learner | 🛠️ Problem Solver
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+projects+and+learning+every+day;Turning+ideas+into+code;Welcome+to+my+profile!" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 ```yaml
-name: "[Your Name]"
 location: "Moldova"
 role: "Developer"
-currently_learning: "[Your current focus]"
-interests:
-  - Software Development
-  - Open Source
-  - Technology
-currently_working_on: "[Your project]"
+currently_learning: Backend developement and Automat QA
 ```
 
 - 🔭 Working on personal and university projects.
