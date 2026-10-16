@@ -1,8 +1,6 @@
-# Hey, I'm [Your Name] 👋
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=YOUR_NAME&fontSize=75&color=0:050816,50:102a43,100:00e5ff&stroke=00e5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=72&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Stanislav&fontSize=75&color=0:050816,50:102a43,100:00e5ff&stroke=00e5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=Junior Frontend%20Developer%20%2F%2F%20Junior%20QA&descAlignY=72&descSize=17" />
 
 <h3 align="center">
   💻 Developer | 🚀 Lifelong Learner | 🛠️ Problem Solver
