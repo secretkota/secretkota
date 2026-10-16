@@ -40,7 +40,9 @@ currently_learning: Backend developement and Automation QA
   <!-- Example: <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech stack" /> -->
 </p>
 
-**Languages:** `Add your languages`
+**Languages:** `<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql,php&theme=light" alt="Tech stack" />
+</p>`
 
 **Frameworks & Libraries:** `Add your frameworks`
 
