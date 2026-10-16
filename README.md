@@ -1,46 +1,96 @@
-<!-- ================= CONTRIBUTION CENTER ================= -->
+# `~/` Hi, I'm Your Name
 
-<div align="center">
+**Developer · Student · Builder**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" width="100%" />
+I build software, explore new technologies, and turn ideas into working projects.
 
-# `06` // CONTRIBUTION CENTER
+[GitHub](https://github.com/YOUR_USERNAME) · [Projects](https://github.com/YOUR_USERNAME?tab=repositories) · [Contact](YOUR_CONTACT_LINK)
 
-<img src="https://img.shields.io/badge/MODULE-CONTRIBUTION_TRACKER-00e5ff?style=for-the-badge&labelColor=070b14" />
+---
 
-<br/><br/>
+### About
 
-### ACTIVITY TIMELINE
+```yaml
+name: Your Name
+location: Moldova
+role: Developer
+currently_learning: "Your current focus"
+currently_building: "Your current project"
+interests:
+  - Software Engineering
+  - Open Source
+  - Problem Solving
+```
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=070b14&color=00e5ff&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=MY%20DEVELOPMENT%20TIMELINE" />
+---
 
-<br/>
+### Tech Stack
 
-### CONTRIBUTION MATRIX
+<!-- Add your technologies here -->
 
-<img src="https://ghchart.rshah.org/00e5ff/YOUR_USERNAME" width="100%" alt="GitHub contribution calendar" />
+**Languages**
 
-<br/><br/>
+`Add your languages here`
 
-### LATEST PUBLIC ACTIVITY
+**Frameworks & Libraries**
 
-<!-- Automatically displays recent public GitHub events -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=070b14&color=00e5ff&line=7c3aed&point=ffffff&area=false&hide_border=true&custom_title=PUBLIC%20ACTIVITY" width="100%" />
+`Add your frameworks here`
 
-<br/>
+**Tools & Platforms**
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-00e5ff?style=for-the-badge&labelColor=070b14" />
-</a>
+`Add your tools here`
 
-<a href="https://github.com/YOUR_USERNAME?tab=overview&from=2026-01-01&to=2026-12-31">
-  <img src="https://img.shields.io/badge/VIEW-PROFILE_ACTIVITY-7c3aed?style=for-the-badge&labelColor=070b14" />
-</a>
+<!-- Optional technology icons -->
+<!--
+<p>
+  <img src="https://skillicons.dev/icons?i=YOUR_STACK&theme=light&perline=8" alt="Tech stack" />
+</p>
+-->
 
-<br/><br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00e5ff,50:102a43,100:070b14" width="100%" />
+### Selected Projects
 
-<sub>END OF TRANSMISSION // KEEP SHIPPING CODE.</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 / Project Name</strong>
+      <p>A short description of what this project does and why it exists.</p>
+      <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">View repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 / Project Name</strong>
+      <p>A short description of the problem this project solves.</p>
+      <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">View repository ↗</a>
+    </td>
+  </tr>
+</table>
 
-</div>
+---
+
+### GitHub Activity
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub statistics" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_title=true&hide_border=true&theme=default" alt="Most used languages" />
+</p>
+
+<p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=24292f&line=6e7781&point=24292f&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+</p>
+
+---
+
+### Recent Contributions
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">Explore repositories ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/YOUR_USERNAME/commits">View commits ↗</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed with intention. Built with code.</sub>
+</p>
