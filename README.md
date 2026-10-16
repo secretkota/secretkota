@@ -34,16 +34,14 @@ currently_learning: Backend developement and Automation QA
 
 ## 🧰 Tech Stack
 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql,php&theme=light" alt="Tech stack" />
-</p>
-
 **Languages:** 
 <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql,php&theme=light" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,php, python&theme=dark" alt="Tech stack" />
 
-**Frameworks & Libraries:** `Add your frameworks`
+**Frameworks & Libraries:** 
+<br>
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="Tech stack" />
+
 
 **Tools:** `Add your tools`
 
