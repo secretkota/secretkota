@@ -1,8 +1,8 @@
 # Hey, I'm [Your Name] 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="GitHub banner" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=YOUR_NAME&fontSize=75&color=0:050816,50:102a43,100:00e5ff&stroke=00e5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEM%20BUILDER&descAlignY=72&descSize=17" />
 
 <h3 align="center">
   💻 Developer | 🚀 Lifelong Learner | 🛠️ Problem Solver
