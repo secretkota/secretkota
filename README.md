@@ -1,96 +1,109 @@
-# `~/` Hi, I'm Your Name
+# Hey, I'm [Your Name] 👋
 
-**Developer · Student · Builder**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="GitHub banner" />
+</p>
 
-I build software, explore new technologies, and turn ideas into working projects.
+<h3 align="center">
+  💻 Developer | 🚀 Lifelong Learner | 🛠️ Problem Solver
+</h3>
 
-[GitHub](https://github.com/secretkota) · [Projects](https://github.com/secretkota?tab=repositories) · [Contact](YOUR_CONTACT_LINK)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+projects+and+learning+every+day;Turning+ideas+into+code;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
 
 ---
 
-### About
+## 👨‍💻 About Me
 
 ```yaml
-name: Your Name
-location: Moldova
-role: Developer
-currently_learning: "Your current focus"
-currently_building: "Your current project"
+name: "[Your Name]"
+location: "Moldova"
+role: "Developer"
+currently_learning: "[Your current focus]"
 interests:
-  - Software Engineering
+  - Software Development
   - Open Source
-  - Problem Solving
+  - Technology
+currently_working_on: "[Your project]"
 ```
 
+- 🔭 Working on personal and university projects.
+- 🌱 Constantly learning and improving my skills.
+- 💡 Interested in building useful and interesting applications.
+- 🎯 Goal: become a better developer with every project.
+
 ---
 
-### Tech Stack
+## 🧰 Tech Stack
 
-<!-- Add your technologies here -->
+<!-- Add your technologies below -->
 
-**Languages**
-
-`Add your languages here`
-
-**Frameworks & Libraries**
-
-`Add your frameworks here`
-
-**Tools & Platforms**
-
-`Add your tools here`
-
-<!-- Optional technology icons -->
-<!--
-<p>
-  <img src="https://skillicons.dev/icons?i=YOUR_STACK&theme=light&perline=8" alt="Tech stack" />
+<p align="left">
+  <!-- Example: <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech stack" /> -->
 </p>
--->
+
+**Languages:** `Add your languages`
+
+**Frameworks & Libraries:** `Add your frameworks`
+
+**Tools:** `Add your tools`
 
 ---
 
-### Selected Projects
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace these placeholders with your real projects -->
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>01 / Project Name</strong>
-      <p>A short description of what this project does and why it exists.</p>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">View repository ↗</a>
+    <td width="50%">
+      <h3 align="center">🚧 Project One</h3>
+      <p align="center">Short description of your project.</p>
+      <p align="center">
+        <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">View repository →</a>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <strong>02 / Project Name</strong>
-      <p>A short description of the problem this project solves.</p>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">View repository ↗</a>
+    <td width="50%">
+      <h3 align="center">⚡ Project Two</h3>
+      <p align="center">Short description of your project.</p>
+      <p align="center">
+        <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">View repository →</a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### GitHub Activity
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=secretkota&show_icons=true&hide_title=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretkota&layout=compact&hide_title=true&hide_border=true&theme=default" alt="Most used languages" />
-</p>
-
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=secretkota&bg_color=ffffff&color=24292f&line=6e7781&point=24292f&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-</p>
-
----
-
-### Recent Contributions
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/secretkota?tab=repositories">Explore repositories ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/secretkota/commits">View commits ↗</a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add your other social links here -->
 </p>
 
 ---
 
 <p align="center">
-  <sub>Designed with intention. Built with code.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer banner" />
+</p>
+
+<p align="center">
+  <i>「Code. Learn. Build. Repeat.」</i>
 </p>
