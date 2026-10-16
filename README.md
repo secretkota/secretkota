@@ -34,10 +34,9 @@ currently_learning: Backend developement and Automation QA
 
 ## 🧰 Tech Stack
 
-<!-- Add your technologies below -->
 
 <p align="left">
-  <!-- Example: <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tech stack" /> -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql,php&theme=light" alt="Tech stack" />
 </p>
 
 **Languages:** 
