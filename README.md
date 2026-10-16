@@ -25,7 +25,7 @@
 ```yaml
 location: "Moldova"
 role: "Developer"
-currently_learning: Backend developement and Automat QA
+currently_learning: Backend developement and Automation QA
 ```
 
 - 🔭 Working on personal and university projects.
@@ -54,19 +54,17 @@ currently_learning: Backend developement and Automat QA
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=secretkota&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secretkota&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=secretkota&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-
-<!-- Replace these placeholders with your real projects -->
 
 <table>
   <tr>
@@ -88,12 +86,3 @@ currently_learning: Backend developement and Automat QA
 </table>
 
 ---
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer banner" />
-</p>
-
-<p align="center">
-  <i>「Code. Learn. Build. Repeat.」</i>
-</p>
