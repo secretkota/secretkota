@@ -41,6 +41,7 @@ currently_learning: Backend developement and Automation QA
 </p>
 
 **Languages:** 
+<br>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql,php&theme=light" alt="Tech stack" />
 
 **Frameworks & Libraries:** `Add your frameworks`
