@@ -9,7 +9,7 @@
   <a href="https://github.com/secretkota">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="www.linkedin.com/in/stanislav-covaliuc-2983a4387">
+  <a href="https://www.linkedin.com/in/stanislav-covaliuc-2983a4387/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
