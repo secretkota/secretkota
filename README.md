@@ -2,8 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Stanislav&fontSize=75&color=0:050816,50:102a43,100:00e5ff&stroke=00e5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%2F%2F%20QA&descAlignY=72&descSize=17" />
 
+##🤝 Connect With Me
 <div align="center">
-<b>🤝 Connect With Me</b>
 
 <p align="center">
   <a href="https://github.com/secretkota">
@@ -23,15 +23,12 @@
 ## 👨‍💻 About Me
 
 ```yaml
-location: "Moldova"
+location: "EU based"
 role: "Developer"
 currently_learning: Backend developement and Automation QA
 ```
-
-- 🔭 Working on personal and university projects.
 - 🌱 Constantly learning and improving my skills.
 - 💡 Interested in building useful and interesting applications.
-- 🎯 Goal: become a better developer with every project.
 
 ---
 
