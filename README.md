@@ -2,9 +2,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Stanislav&fontSize=75&color=0:050816,50:102a43,100:00e5ff&stroke=00e5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=Junior%20Frontend%20Developer%20%2F%2F%20Junior%20QA&descAlignY=72&descSize=17" />
 
-<h3 align="center">
-  💻 Developer | 🚀 Lifelong Learner | 🛠️ Problem Solver
-</h3>
+<div align="center">
+  ---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add your other social links here -->
+</p>
+
+---
+
+</div>
 
 ---
 
@@ -76,16 +88,6 @@ currently_learning: Backend developement and Automat QA
 </table>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Add your other social links here -->
-</p>
-
 ---
 
 <p align="center">
