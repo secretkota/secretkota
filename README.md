@@ -43,7 +43,9 @@ currently_learning: Backend developement and Automation QA
   <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="Tech stack" />
 
 
-**Tools:** `Add your tools`
+**Tools:** 
+<br>
+  <img src="https://skillicons.dev/icons?i=npm,photoshop,git&theme=dark" alt="Tech stack" />
 
 ---
 
