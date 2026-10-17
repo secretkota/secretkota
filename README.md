@@ -63,7 +63,7 @@ currently_learning: Backend developement and Automation QA
   <tr>
     <td width="50%">
       <h3 align="center">🚧 AD dashboard (fullstack) - PHP + REACT</h3>
-      <p align="center">Short description of your project.</p>
+      <p align="center">A modern fullstack panel powered by React and PHP, designed for efficient data management.</p>
       <p align="center">
         <a href="https://github.com/secretkota/individual_PHP-REACT">View repository →</a>
       </p>
