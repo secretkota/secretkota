@@ -1,23 +1,11 @@
 <div align="center">
 
-<!-- GitHub Profile Header -->
 
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=HELLO,%20I'M%20STAS&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Hello, I'm Stas" />
 
 
-
-  <a href="https://github.com/BlackLada">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-
-</div>
-
-<!-- End of Header -->
 
 <b>🤝 Connect With Me</b>
 <div align="center">
