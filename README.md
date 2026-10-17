@@ -6,11 +6,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=HELLO,%20I'M%20STAS&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Hello, I'm Stas" />
 
-  <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+modern+web+applications;React+%7C+JavaScript+%7C+TypeScript;Always+learning+something+new." alt="Typing SVG" />
-
-  <br/><br/>
 
   <a href="https://github.com/BlackLada">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
