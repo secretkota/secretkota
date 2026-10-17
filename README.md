@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Stanislav&fontSize=75&color=0:050816,50:102a43,100:00e5ff&stroke=00e5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%2F%2F%20QA&descAlignY=72&descSize=17" />
 
-##🤝 Connect With Me
+<b>🤝 Connect With Me</b>
 <div align="center">
 
 <p align="center">
@@ -62,17 +62,17 @@ currently_learning: Backend developement and Automation QA
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚧 Project One</h3>
+      <h3 align="center">🚧 AD dashboard (fullstack) - PHP + REACT</h3>
       <p align="center">Short description of your project.</p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">View repository →</a>
+        <a href="https://github.com/secretkota/individual_PHP-REACT">View repository →</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Project Two</h3>
-      <p align="center">Short description of your project.</p>
+      <h3 align="center">⚡Pet Helper - React Native + Node JS</h3>
+      <p align="center">Application for your pets, in application you have control on pet</p>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">View repository →</a>
+        <a href="https://github.com/secretkota/PetHelper">View repository →</a>
       </p>
     </td>
   </tr>
