@@ -5,7 +5,7 @@
 
   <h1>HELLO, I'M <span>STAS</span> 👋</h1>
 
-  <h3>Frontend Developer · Fullstack Enthusiast</h3>
+  <h3>Frontend Developer · QA</h3>
 
 
 <b>🤝 Connect With Me</b>
