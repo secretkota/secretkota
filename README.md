@@ -3,8 +3,9 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=HELLO,%20I'M%20STAS&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Hello, I'm Stas" />
+  <h1>HELLO, I'M <span>STAS</span> 👋</h1>
 
+  <h3>Frontend Developer · Fullstack Enthusiast</h3>
 
 
 <b>🤝 Connect With Me</b>
